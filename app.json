@@ -15,12 +15,12 @@
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
       "required": false,
-      "value": "$"
+      "value": "."
     },
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
