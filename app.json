@@ -20,7 +20,7 @@
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
       "required": false,
-      "value": "."
+      "value": "$"
     },
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
