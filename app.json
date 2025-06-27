@@ -10,12 +10,12 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with Buddy;;;",
       "required": true,
-      "value": "Buddy;;;EdJTBArJ#CqNZJTyptWyPlDYdn0L7g5xl67NXeBk355t7bf2LkNQ"
+      "value": "Buddy;;;YdZWkIBB#noDLIExhKwDD32ZkdNEQCFgESkAxniiqWtd48zHQd4U"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
